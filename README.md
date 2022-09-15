@@ -1,4 +1,4 @@
-# MedicalClinic_academic
+# MedicalClinic_academic-1
 Assignment done for Java course
 
 This code was based on a UML (provided by the professor) and hence the classes, attributes and method headers are not original work!
